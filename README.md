@@ -1,0 +1,2 @@
+# PostgreSQL docekr-compose Template
+dockerを使ってローカルでPostgreSQLを使うためのサンプルです 
